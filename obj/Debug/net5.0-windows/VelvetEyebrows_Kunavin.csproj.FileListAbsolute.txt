@@ -1,0 +1,114 @@
+D:\БАЗА\Бархатные бровки\WPF\VelvetEyebrows_Kunavin\bin\Debug\net5.0-windows\Assets\Images\Services\122454.png
+D:\БАЗА\Бархатные бровки\WPF\VelvetEyebrows_Kunavin\bin\Debug\net5.0-windows\Assets\Images\Services\96.png
+D:\БАЗА\Бархатные бровки\WPF\VelvetEyebrows_Kunavin\bin\Debug\net5.0-windows\Assets\Images\Services\face.png
+D:\БАЗА\Бархатные бровки\WPF\VelvetEyebrows_Kunavin\bin\Debug\net5.0-windows\Assets\Images\Services\makeup.jpg
+D:\БАЗА\Бархатные бровки\WPF\VelvetEyebrows_Kunavin\bin\Debug\net5.0-windows\Assets\Images\Services\man.png
+D:\БАЗА\Бархатные бровки\WPF\VelvetEyebrows_Kunavin\bin\Debug\net5.0-windows\Assets\Images\Services\mask.jpeg
+D:\БАЗА\Бархатные бровки\WPF\VelvetEyebrows_Kunavin\bin\Debug\net5.0-windows\Assets\Images\Services\no_image.png
+D:\БАЗА\Бархатные бровки\WPF\VelvetEyebrows_Kunavin\bin\Debug\net5.0-windows\Assets\Images\Services\piling.jpg
+D:\БАЗА\Бархатные бровки\WPF\VelvetEyebrows_Kunavin\bin\Debug\net5.0-windows\Assets\Images\Services\soliarij.jpg
+D:\БАЗА\Бархатные бровки\WPF\VelvetEyebrows_Kunavin\bin\Debug\net5.0-windows\Assets\Images\Services\брови.png
+D:\БАЗА\Бархатные бровки\WPF\VelvetEyebrows_Kunavin\bin\Debug\net5.0-windows\Assets\Images\Services\Гречишный массаж.jpg
+D:\БАЗА\Бархатные бровки\WPF\VelvetEyebrows_Kunavin\bin\Debug\net5.0-windows\Assets\Images\Services\Декорирование нарощенных ресниц стразами.jpg
+D:\БАЗА\Бархатные бровки\WPF\VelvetEyebrows_Kunavin\bin\Debug\net5.0-windows\Assets\Images\Services\Демакияж.jpg
+D:\БАЗА\Бархатные бровки\WPF\VelvetEyebrows_Kunavin\bin\Debug\net5.0-windows\Assets\Images\Services\Депиляция воском.jpg
+D:\БАЗА\Бархатные бровки\WPF\VelvetEyebrows_Kunavin\bin\Debug\net5.0-windows\Assets\Images\Services\Европейский маникюр.jpg
+D:\БАЗА\Бархатные бровки\WPF\VelvetEyebrows_Kunavin\bin\Debug\net5.0-windows\Assets\Images\Services\ИК-сауна.jpg
+D:\БАЗА\Бархатные бровки\WPF\VelvetEyebrows_Kunavin\bin\Debug\net5.0-windows\Assets\Images\Services\Классический маникюр.png
+D:\БАЗА\Бархатные бровки\WPF\VelvetEyebrows_Kunavin\bin\Debug\net5.0-windows\Assets\Images\Services\Комбинированный маникюр.jpg
+D:\БАЗА\Бархатные бровки\WPF\VelvetEyebrows_Kunavin\bin\Debug\net5.0-windows\Assets\Images\Services\Контурная пластика.jpg
+D:\БАЗА\Бархатные бровки\WPF\VelvetEyebrows_Kunavin\bin\Debug\net5.0-windows\Assets\Images\Services\массаж.jpg
+D:\БАЗА\Бархатные бровки\WPF\VelvetEyebrows_Kunavin\bin\Debug\net5.0-windows\Assets\Images\Services\Мезотерапия.jpg
+D:\БАЗА\Бархатные бровки\WPF\VelvetEyebrows_Kunavin\bin\Debug\net5.0-windows\Assets\Images\Services\Моделирование ресниц.jpg
+D:\БАЗА\Бархатные бровки\WPF\VelvetEyebrows_Kunavin\bin\Debug\net5.0-windows\Assets\Images\Services\ногти.png
+D:\БАЗА\Бархатные бровки\WPF\VelvetEyebrows_Kunavin\bin\Debug\net5.0-windows\Assets\Images\Services\Окрашивание бровей.jpg
+D:\БАЗА\Бархатные бровки\WPF\VelvetEyebrows_Kunavin\bin\Debug\net5.0-windows\Assets\Images\Services\Парафинотерапия.jpg
+D:\БАЗА\Бархатные бровки\WPF\VelvetEyebrows_Kunavin\bin\Debug\net5.0-windows\Assets\Images\Services\Покрытие ногтей гель-лаком.jpg
+D:\БАЗА\Бархатные бровки\WPF\VelvetEyebrows_Kunavin\bin\Debug\net5.0-windows\Assets\Images\Services\Полировка ногтей.jpg
+D:\БАЗА\Бархатные бровки\WPF\VelvetEyebrows_Kunavin\bin\Debug\net5.0-windows\Assets\Images\Services\Прессотерапия.jpg
+D:\БАЗА\Бархатные бровки\WPF\VelvetEyebrows_Kunavin\bin\Debug\net5.0-windows\Assets\Images\Services\Прокол ушей пистолетом.png
+D:\БАЗА\Бархатные бровки\WPF\VelvetEyebrows_Kunavin\bin\Debug\net5.0-windows\Assets\Images\Services\Ресницы.png
+D:\БАЗА\Бархатные бровки\WPF\VelvetEyebrows_Kunavin\bin\Debug\net5.0-windows\Assets\Images\Services\Снятие ресниц.jpg
+D:\БАЗА\Бархатные бровки\WPF\VelvetEyebrows_Kunavin\bin\Debug\net5.0-windows\Assets\Images\Services\Стоун-терапия.jpg
+D:\БАЗА\Бархатные бровки\WPF\VelvetEyebrows_Kunavin\bin\Debug\net5.0-windows\Assets\Images\Services\стрижка.png
+D:\БАЗА\Бархатные бровки\WPF\VelvetEyebrows_Kunavin\bin\Debug\net5.0-windows\Assets\Images\Services\Укрепление ногтей гелем.jpg
+D:\БАЗА\Бархатные бровки\WPF\VelvetEyebrows_Kunavin\bin\Debug\net5.0-windows\Assets\Images\Services\Шугаринг.jpg
+D:\БАЗА\Бархатные бровки\WPF\VelvetEyebrows_Kunavin\bin\Debug\net5.0-windows\Assets\Images\Services\Экспресс SPA.png
+D:\БАЗА\Бархатные бровки\WPF\VelvetEyebrows_Kunavin\bin\Debug\net5.0-windows\Assets\Images\Services\Экспресс-педикюр.jpg
+D:\БАЗА\Бархатные бровки\WPF\VelvetEyebrows_Kunavin\bin\Debug\net5.0-windows\VelvetEyebrows_Kunavin.exe
+D:\БАЗА\Бархатные бровки\WPF\VelvetEyebrows_Kunavin\bin\Debug\net5.0-windows\VelvetEyebrows_Kunavin.deps.json
+D:\БАЗА\Бархатные бровки\WPF\VelvetEyebrows_Kunavin\bin\Debug\net5.0-windows\VelvetEyebrows_Kunavin.runtimeconfig.json
+D:\БАЗА\Бархатные бровки\WPF\VelvetEyebrows_Kunavin\bin\Debug\net5.0-windows\VelvetEyebrows_Kunavin.runtimeconfig.dev.json
+D:\БАЗА\Бархатные бровки\WPF\VelvetEyebrows_Kunavin\bin\Debug\net5.0-windows\VelvetEyebrows_Kunavin.dll
+D:\БАЗА\Бархатные бровки\WPF\VelvetEyebrows_Kunavin\bin\Debug\net5.0-windows\ref\VelvetEyebrows_Kunavin.dll
+D:\БАЗА\Бархатные бровки\WPF\VelvetEyebrows_Kunavin\bin\Debug\net5.0-windows\VelvetEyebrows_Kunavin.pdb
+D:\БАЗА\Бархатные бровки\WPF\VelvetEyebrows_Kunavin\bin\Debug\net5.0-windows\Humanizer.dll
+D:\БАЗА\Бархатные бровки\WPF\VelvetEyebrows_Kunavin\bin\Debug\net5.0-windows\MaterialDesignColors.dll
+D:\БАЗА\Бархатные бровки\WPF\VelvetEyebrows_Kunavin\bin\Debug\net5.0-windows\MaterialDesignThemes.Wpf.dll
+D:\БАЗА\Бархатные бровки\WPF\VelvetEyebrows_Kunavin\bin\Debug\net5.0-windows\Microsoft.Data.SqlClient.dll
+D:\БАЗА\Бархатные бровки\WPF\VelvetEyebrows_Kunavin\bin\Debug\net5.0-windows\Microsoft.EntityFrameworkCore.dll
+D:\БАЗА\Бархатные бровки\WPF\VelvetEyebrows_Kunavin\bin\Debug\net5.0-windows\Microsoft.EntityFrameworkCore.Abstractions.dll
+D:\БАЗА\Бархатные бровки\WPF\VelvetEyebrows_Kunavin\bin\Debug\net5.0-windows\Microsoft.EntityFrameworkCore.Design.dll
+D:\БАЗА\Бархатные бровки\WPF\VelvetEyebrows_Kunavin\bin\Debug\net5.0-windows\Microsoft.EntityFrameworkCore.Relational.dll
+D:\БАЗА\Бархатные бровки\WPF\VelvetEyebrows_Kunavin\bin\Debug\net5.0-windows\Microsoft.EntityFrameworkCore.SqlServer.dll
+D:\БАЗА\Бархатные бровки\WPF\VelvetEyebrows_Kunavin\bin\Debug\net5.0-windows\Microsoft.Extensions.Caching.Abstractions.dll
+D:\БАЗА\Бархатные бровки\WPF\VelvetEyebrows_Kunavin\bin\Debug\net5.0-windows\Microsoft.Extensions.Caching.Memory.dll
+D:\БАЗА\Бархатные бровки\WPF\VelvetEyebrows_Kunavin\bin\Debug\net5.0-windows\Microsoft.Extensions.Configuration.Abstractions.dll
+D:\БАЗА\Бархатные бровки\WPF\VelvetEyebrows_Kunavin\bin\Debug\net5.0-windows\Microsoft.Extensions.DependencyInjection.dll
+D:\БАЗА\Бархатные бровки\WPF\VelvetEyebrows_Kunavin\bin\Debug\net5.0-windows\Microsoft.Extensions.DependencyInjection.Abstractions.dll
+D:\БАЗА\Бархатные бровки\WPF\VelvetEyebrows_Kunavin\bin\Debug\net5.0-windows\Microsoft.Extensions.Logging.dll
+D:\БАЗА\Бархатные бровки\WPF\VelvetEyebrows_Kunavin\bin\Debug\net5.0-windows\Microsoft.Extensions.Logging.Abstractions.dll
+D:\БАЗА\Бархатные бровки\WPF\VelvetEyebrows_Kunavin\bin\Debug\net5.0-windows\Microsoft.Extensions.Options.dll
+D:\БАЗА\Бархатные бровки\WPF\VelvetEyebrows_Kunavin\bin\Debug\net5.0-windows\Microsoft.Extensions.Primitives.dll
+D:\БАЗА\Бархатные бровки\WPF\VelvetEyebrows_Kunavin\bin\Debug\net5.0-windows\Microsoft.Identity.Client.dll
+D:\БАЗА\Бархатные бровки\WPF\VelvetEyebrows_Kunavin\bin\Debug\net5.0-windows\Microsoft.IdentityModel.JsonWebTokens.dll
+D:\БАЗА\Бархатные бровки\WPF\VelvetEyebrows_Kunavin\bin\Debug\net5.0-windows\Microsoft.IdentityModel.Logging.dll
+D:\БАЗА\Бархатные бровки\WPF\VelvetEyebrows_Kunavin\bin\Debug\net5.0-windows\Microsoft.IdentityModel.Protocols.dll
+D:\БАЗА\Бархатные бровки\WPF\VelvetEyebrows_Kunavin\bin\Debug\net5.0-windows\Microsoft.IdentityModel.Protocols.OpenIdConnect.dll
+D:\БАЗА\Бархатные бровки\WPF\VelvetEyebrows_Kunavin\bin\Debug\net5.0-windows\Microsoft.IdentityModel.Tokens.dll
+D:\БАЗА\Бархатные бровки\WPF\VelvetEyebrows_Kunavin\bin\Debug\net5.0-windows\Microsoft.Xaml.Behaviors.dll
+D:\БАЗА\Бархатные бровки\WPF\VelvetEyebrows_Kunavin\bin\Debug\net5.0-windows\Newtonsoft.Json.dll
+D:\БАЗА\Бархатные бровки\WPF\VelvetEyebrows_Kunavin\bin\Debug\net5.0-windows\System.Diagnostics.DiagnosticSource.dll
+D:\БАЗА\Бархатные бровки\WPF\VelvetEyebrows_Kunavin\bin\Debug\net5.0-windows\System.IdentityModel.Tokens.Jwt.dll
+D:\БАЗА\Бархатные бровки\WPF\VelvetEyebrows_Kunavin\bin\Debug\net5.0-windows\System.Runtime.Caching.dll
+D:\БАЗА\Бархатные бровки\WPF\VelvetEyebrows_Kunavin\bin\Debug\net5.0-windows\runtimes\unix\lib\netcoreapp3.1\Microsoft.Data.SqlClient.dll
+D:\БАЗА\Бархатные бровки\WPF\VelvetEyebrows_Kunavin\bin\Debug\net5.0-windows\runtimes\win\lib\netcoreapp3.1\Microsoft.Data.SqlClient.dll
+D:\БАЗА\Бархатные бровки\WPF\VelvetEyebrows_Kunavin\bin\Debug\net5.0-windows\runtimes\win-arm\native\Microsoft.Data.SqlClient.SNI.dll
+D:\БАЗА\Бархатные бровки\WPF\VelvetEyebrows_Kunavin\bin\Debug\net5.0-windows\runtimes\win-arm\native\Microsoft.Data.SqlClient.SNI.pdb
+D:\БАЗА\Бархатные бровки\WPF\VelvetEyebrows_Kunavin\bin\Debug\net5.0-windows\runtimes\win-arm64\native\Microsoft.Data.SqlClient.SNI.dll
+D:\БАЗА\Бархатные бровки\WPF\VelvetEyebrows_Kunavin\bin\Debug\net5.0-windows\runtimes\win-arm64\native\Microsoft.Data.SqlClient.SNI.pdb
+D:\БАЗА\Бархатные бровки\WPF\VelvetEyebrows_Kunavin\bin\Debug\net5.0-windows\runtimes\win-x64\native\Microsoft.Data.SqlClient.SNI.dll
+D:\БАЗА\Бархатные бровки\WPF\VelvetEyebrows_Kunavin\bin\Debug\net5.0-windows\runtimes\win-x64\native\Microsoft.Data.SqlClient.SNI.pdb
+D:\БАЗА\Бархатные бровки\WPF\VelvetEyebrows_Kunavin\bin\Debug\net5.0-windows\runtimes\win-x86\native\Microsoft.Data.SqlClient.SNI.dll
+D:\БАЗА\Бархатные бровки\WPF\VelvetEyebrows_Kunavin\bin\Debug\net5.0-windows\runtimes\win-x86\native\Microsoft.Data.SqlClient.SNI.pdb
+D:\БАЗА\Бархатные бровки\WPF\VelvetEyebrows_Kunavin\bin\Debug\net5.0-windows\runtimes\win\lib\netstandard2.0\System.Runtime.Caching.dll
+D:\БАЗА\Бархатные бровки\WPF\VelvetEyebrows_Kunavin\obj\Debug\net5.0-windows\Views\LoginWindow.g.cs
+D:\БАЗА\Бархатные бровки\WPF\VelvetEyebrows_Kunavin\obj\Debug\net5.0-windows\Views\MainWindow.g.cs
+D:\БАЗА\Бархатные бровки\WPF\VelvetEyebrows_Kunavin\obj\Debug\net5.0-windows\Views\ServicesPage.g.cs
+D:\БАЗА\Бархатные бровки\WPF\VelvetEyebrows_Kunavin\obj\Debug\net5.0-windows\App.g.cs
+D:\БАЗА\Бархатные бровки\WPF\VelvetEyebrows_Kunavin\obj\Debug\net5.0-windows\GeneratedInternalTypeHelper.g.cs
+D:\БАЗА\Бархатные бровки\WPF\VelvetEyebrows_Kunavin\obj\Debug\net5.0-windows\VelvetEyebrows_Kunavin_MarkupCompile.cache
+D:\БАЗА\Бархатные бровки\WPF\VelvetEyebrows_Kunavin\obj\Debug\net5.0-windows\VelvetEyebrows_Kunavin_MarkupCompile.lref
+D:\БАЗА\Бархатные бровки\WPF\VelvetEyebrows_Kunavin\obj\Debug\net5.0-windows\App.baml
+D:\БАЗА\Бархатные бровки\WPF\VelvetEyebrows_Kunavin\obj\Debug\net5.0-windows\Views\LoginWindow.baml
+D:\БАЗА\Бархатные бровки\WPF\VelvetEyebrows_Kunavin\obj\Debug\net5.0-windows\Views\MainWindow.baml
+D:\БАЗА\Бархатные бровки\WPF\VelvetEyebrows_Kunavin\obj\Debug\net5.0-windows\Views\ServicesPage.baml
+D:\БАЗА\Бархатные бровки\WPF\VelvetEyebrows_Kunavin\obj\Debug\net5.0-windows\VelvetEyebrows_Kunavin.g.resources
+D:\БАЗА\Бархатные бровки\WPF\VelvetEyebrows_Kunavin\obj\Debug\net5.0-windows\VelvetEyebrows_Kunavin.GeneratedMSBuildEditorConfig.editorconfig
+D:\БАЗА\Бархатные бровки\WPF\VelvetEyebrows_Kunavin\obj\Debug\net5.0-windows\VelvetEyebrows_Kunavin.AssemblyInfoInputs.cache
+D:\БАЗА\Бархатные бровки\WPF\VelvetEyebrows_Kunavin\obj\Debug\net5.0-windows\VelvetEyebrows_Kunavin.AssemblyInfo.cs
+D:\БАЗА\Бархатные бровки\WPF\VelvetEyebrows_Kunavin\obj\Debug\net5.0-windows\VelvetEyebrows_Kunavin.csproj.CoreCompileInputs.cache
+D:\БАЗА\Бархатные бровки\WPF\VelvetEyebrows_Kunavin\obj\Debug\net5.0-windows\VelvetEyebrows_Kunavin.csproj.CopyComplete
+D:\БАЗА\Бархатные бровки\WPF\VelvetEyebrows_Kunavin\obj\Debug\net5.0-windows\VelvetEyebrows_Kunavin.dll
+D:\БАЗА\Бархатные бровки\WPF\VelvetEyebrows_Kunavin\obj\Debug\net5.0-windows\ref\VelvetEyebrows_Kunavin.dll
+D:\БАЗА\Бархатные бровки\WPF\VelvetEyebrows_Kunavin\obj\Debug\net5.0-windows\VelvetEyebrows_Kunavin.pdb
+D:\БАЗА\Бархатные бровки\WPF\VelvetEyebrows_Kunavin\obj\Debug\net5.0-windows\VelvetEyebrows_Kunavin.genruntimeconfig.cache
+D:\БАЗА\Бархатные бровки\WPF\VelvetEyebrows_Kunavin\obj\Debug\net5.0-windows\Views\UpdateServicePage.g.cs
+D:\БАЗА\Бархатные бровки\WPF\VelvetEyebrows_Kunavin\obj\Debug\net5.0-windows\Views\UpdateServicePage.baml
+D:\БАЗА\Бархатные бровки\WPF\VelvetEyebrows_Kunavin\obj\Debug\net5.0-windows\Views\ServiceRegistrationPage.g.cs
+D:\БАЗА\Бархатные бровки\WPF\VelvetEyebrows_Kunavin\obj\Debug\net5.0-windows\Views\ServiceRegistrationPage.baml
+D:\БАЗА\Бархатные бровки\WPF\VelvetEyebrows_Kunavin\obj\Debug\net5.0-windows\Views\ServiceListRegistration.g.cs
+D:\БАЗА\Бархатные бровки\WPF\VelvetEyebrows_Kunavin\obj\Debug\net5.0-windows\Views\ServiceListRegistration.baml
+D:\БАЗА\Бархатные бровки\WPF\VelvetEyebrows_Kunavin\obj\Debug\net5.0-windows\VelvetEyebrows_Kunavin.csproj.AssemblyReference.cache
+D:\БАЗА\Бархатные бровки\WPF\VelvetEyebrows_Kunavin\bin\Debug\net5.0-windows\Castle.Core.dll
+D:\БАЗА\Бархатные бровки\WPF\VelvetEyebrows_Kunavin\bin\Debug\net5.0-windows\Microsoft.EntityFrameworkCore.Proxies.dll
